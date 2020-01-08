@@ -126,6 +126,10 @@ while True:
         if snakePos[0] == block[0] and snakePos[1] == block[1]:
             gameOver()
 
+#new line
+#new line 2
+
     showScore()
     pygame.display.flip()
     fpsController.tick(10)
+# new line check
